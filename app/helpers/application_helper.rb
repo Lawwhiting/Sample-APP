@@ -7,5 +7,5 @@ module ApplicationHelper
     else
       page_title + " | " + base_title #string concatenation
     end
-  end
+end
 end
